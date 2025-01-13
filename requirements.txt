@@ -1,0 +1,11 @@
+Flask==3.0.3
+mysql-connector-python==9.0.0
+pandas==2.2.0
+Werkzeug==3.0.3
+Jinja2==3.1.4
+click==8.1.7
+itsdangerous==2.2.0
+MarkupSafe==2.1.5
+matplotlib==3.8.3
+plotly==5.19.0  # Alternative to d3 for interactive visualizations
+seaborn==0.13.2  # Additional visualization library
