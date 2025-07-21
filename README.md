@@ -84,6 +84,7 @@ Upon running the application:
 ## Contributers
 
 - Sayandeep
+- Dhamini
 - Parvez
 - Sarika
 - Saumya
